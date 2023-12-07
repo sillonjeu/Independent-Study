@@ -1,5 +1,5 @@
 # Independent-Study
-개별연구(CS Privacy Enhancing Technology 응용 사례 연구)
+개별연구(CS Privacy Enhancing Technology 응용 사례 연구: zkSENSE, reCAPTCHA)
 
 연구 주제
 ![image](https://github.com/sillonjeu/Independent-Study/assets/59414536/5abc29f0-f9bd-45d0-85ef-13aceae27401)
